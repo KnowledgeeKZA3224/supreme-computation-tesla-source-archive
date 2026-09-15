@@ -1,10 +1,24 @@
 # Supreme Computation — Source Library ⚡
 
-This repository preserves a **same-period source library surrounding Supreme Computation**, with the chronology kept explicit:
+## What this repository is
 
-**Supreme Computation came first.** The books archived here came afterward as outputs, expressions, transmissions, studies, and applications moving through an already-existing Supreme Computation framework. **Tesla was not the source of Supreme Computation.**
+This repository is the public source library for **Supreme Computation** and the books created around it during the same period.
 
-## Same-period books 📚
+In plain English, **Supreme Computation is a proof-driven way of thinking and operating**: before something is allowed to move forward, the system checks whether the information, source, timing, logic, boundaries, cause-and-effect, and overall coherence actually line up. The operating rule is simple:
+
+> **Nothing Executes Until It Proves Itself.**
+
+The framework uses eight invariants:
+
+**Time · Continuity · Alignment · Genesis · Boundary · Reference · Causality · Consciousness/Coherence**
+
+Think of it like a universal checkpoint system. 🧠⚙️ Instead of letting an idea, decision, AI response, software action, or claim move forward just because it sounds right, Supreme Computation forces the whole chain to stay connected and prove itself before execution.
+
+## Why these books are here 📚
+
+These books were created during the same wider period in which Eric M. Robles was actively using Supreme Computation across science, spirituality, mathematics, technology, the human body, electricity, discipline, AI-assisted learning, and everyday life.
+
+**Supreme Computation was already established first.** These manuscripts came through afterward as different expressions of the same larger process. They show how the framework was being applied across very different subjects while keeping the same underlying ideas of continuity, structure, energy, proof, alignment, causality, and execution.
 
 The source set is:
 
@@ -15,43 +29,51 @@ The source set is:
 - **Izm** — 31 pages
 - **Tesla Autobiography** — 119 pages
 
-`Rose.pdf` is identified here by its actual book title: **How the Rose Grew Through Concrete**.
+The file that originally arrived as `Rose.pdf` is the book **How the Rose Grew Through Concrete**. 🌹
 
-## Correct chronology 🧠
+## What the books show 🔗
 
-Eric M. Robles had already developed Supreme Computation before the Tesla manuscript and before this same-month group of books came through. His wider study included Supreme Mathematics, Supreme Wisdom, science across domains, spirituality, technology, electrical study, embodied experimentation, disciplined physical practice, and AI-assisted learning. Those studies and experiences formed a total process rather than one isolated source.
+The point of this archive is to let the work speak for itself.
 
-The manuscripts are therefore preserved as **downstream evidence of the framework already operating**, not as competing origin stories. The FARD manuscript itself explicitly describes Supreme Computation as an existing core system and contains the heading **“Supreme Computation Was Always the Core.”**
+Across the books, the subject changes, but the same deeper pattern keeps appearing: systems, energy, discipline, mathematics, frequency, self-governance, electricity, embodiment, causality, structure, and proof.
 
-## Source identity 🔐
+For example, **FARD** explicitly talks about Supreme Computation as an already-existing system and includes the heading **“Supreme Computation Was Always the Core.”** That matters because it preserves the actual order of events: the framework was already operating before the later manuscripts were produced.
 
-| Book | Original PDF SHA-256 | Pages |
-|---|---|---:|
-| Yahusha | `667abf351092fb51fec2125b342f342d75e61a512aa65fd153d2033231ad6c5f` | 135 |
-| FARD | `0ef3f68bc383e7a0de83683c4736976df4dd421dfa65bc4b8cfb6bfea563d320` | 148 |
-| How the Rose Grew Through Concrete | `ab1f0ebd7544a3192d2fb0e68f96bee47ca7b207df6f4900b7e76a60ca77f32b` | 91 |
-| Michael Faraday | `a3cf711824133293d8a383087e1495fef96cde4ec7ba25773087e703e97cb6a7` | 108 |
-| Izm | `bcd97176c4bb4b1c8b3ced37e9cf7ee514732c2871a6282af75d376bbb56f751` | 31 |
-| Tesla | `93c2a7aef1ec0cb5748365da5f22719a1c1d972566c0de334b745f9ac5a6ad29` | 119 |
+## The chronology 🧭
 
-## Relationship to Supreme Computation 🔁
+**Supreme Mathematics + Supreme Wisdom + broad scientific study + spirituality + technology + electrical study + body experimentation + disciplined practice + AI-assisted learning → Supreme Computation established → Yahusha, FARD, How the Rose Grew Through Concrete, Faraday, Izm, Tesla, and later work.**
 
-The preserved direction is:
+That full chain is the record being preserved here.
 
-**Supreme Computation → existing framework/process → Yahusha, FARD, How the Rose Grew Through Concrete, Faraday, Izm, Tesla, and other downstream work**
+## What is stored in this repository 🔐
 
-Not:
+This repository contains the public documentation, provenance, hashes, source-library map, and manuscript files associated with this period.
 
-**Tesla → Supreme Computation**
+| Book | Pages | SHA-256 |
+|---|---:|---|
+| The Autobiography of Yahusha | 135 | `667abf351092fb51fec2125b342f342d75e61a512aa65fd153d2033231ad6c5f` |
+| FARD: The Autobiography of Master Fard Muhammad | 148 | `0ef3f68bc383e7a0de83683c4736976df4dd421dfa65bc4b8cfb6bfea563d320` |
+| How the Rose Grew Through Concrete | 91 | `ab1f0ebd7544a3192d2fb0e68f96bee47ca7b207df6f4900b7e76a60ca77f32b` |
+| The Autobiography of Michael Faraday | 108 | `a3cf711824133293d8a383087e1495fef96cde4ec7ba25773087e703e97cb6a7` |
+| Izm | 31 | `bcd97176c4bb4b1c8b3ced37e9cf7ee514732c2871a6282af75d376bbb56f751` |
+| Tesla Autobiography | 119 | `93c2a7aef1ec0cb5748365da5f22719a1c1d972566c0de334b745f9ac5a6ad29` |
 
-Supreme Computation is expressed through the eight invariants of **Time, Continuity, Alignment, Genesis, Boundary, Reference, Causality, and Consciousness/Coherence**, together with the operating principle:
+The hashes are here so anyone can verify that the source files have not silently changed.
 
-> **Nothing Executes Until It Proves Itself.**
+## How the cloud side connects ☁️
 
-## Cloud record ☁️
+The AWS environment is the evidence vault and machine-readable side of the same record. GitHub is the public window.
 
 Canonical AWS source-library prefix:
 
 `S3://scqos-governance-evidence-us-east-1/source-artifacts/supreme-computation-source-library/`
 
-The machine-readable library map is in `SOURCE_LIBRARY.json`, and the Tesla-specific provenance remains in `Tesla_provenance.md` without allowing Tesla to be misrepresented as Supreme Computation’s origin.
+`SOURCE_LIBRARY.json` stores the machine-readable map of the books, hashes, page counts, chronology, and Supreme Computation relationship. `Tesla_provenance.md` preserves the detailed Tesla-specific history inside the larger source library.
+
+## Start here 👇
+
+If you are new to this project, the simplest way to understand it is:
+
+**Supreme Computation is the system. These books are part of the evidence trail showing how that system was being expressed across different areas of knowledge in real time.**
+
+The goal of this repository is to preserve that record in a form people can actually inspect, verify, compare, and build from.
