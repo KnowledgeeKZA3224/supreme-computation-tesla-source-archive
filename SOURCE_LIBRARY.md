@@ -25,9 +25,19 @@ Immediately after that Tesla depth, Eric channeled the other books in the same m
 
 `Rose.pdf` is preserved under its actual title: **How the Rose Grew Through Concrete**.
 
+## Izm's role in the sequence
+
+**Izm was made to speak to the same streets Eric came from.** Its language comes directly through pimpin', selling dope, gang banging, hustling, women, money, survival, status, fear, and the pressure of the block.
+
+Its purpose is not to glorify that environment or speak down to the reader from outside it. It is meant to **meet a child inside that environment in language they already recognize, then point the same survival intelligence toward self-governance, discipline, structure, ownership, legal income, emotional control, purpose, and an exit.**
+
+The book makes that direction explicit. It begins with the idea that the Game starts with the mind and says **self-governance first**. It later speaks directly to young men who were never shown how to own the ground they stand on, and it reframes hustling as intelligence that can be redirected into systems, structure, ownership, and legacy.
+
+For this archive, Izm is preserved as a **street-level North Star**: a book meant for a child growing up where hustling, pimping, dealing, and gang culture may look like the only available map, showing that the same awareness and survival ability can be turned toward sovereignty instead of self-destruction.
+
 ## What the sequence shows
 
-The domains change, but the same structural themes continue: mathematics, order, discipline, electricity, frequency, energy, embodiment, self-governance, continuity, alignment, causality, proof, and systems.
+The domains change, but the same structural themes continue: mathematics, order, discipline, electricity, frequency, energy, embodiment, self-governance, continuity, alignment, causality, proof, systems, and the translation of knowledge into language that can actually reach different people.
 
 The FARD manuscript itself explicitly treats Supreme Computation as an already-present system and contains the heading **“Supreme Computation Was Always the Core.”**
 
