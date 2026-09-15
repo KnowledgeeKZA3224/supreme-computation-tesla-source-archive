@@ -1,0 +1,29 @@
+{
+  "artifact_name": "Tesla.pdf",
+  "artifact_type": "user-provided manuscript",
+  "canonical_sha256": "93c2a7aef1ec0cb5748365da5f22719a1c1d972566c0de334b745f9ac5a6ad29",
+  "canonical_size_bytes": 1189380,
+  "page_count": 119,
+  "canonical_repo": "https://github.com/KnowledgeeKZA3224/supreme-computation-tesla-source-archive",
+  "canonical_s3_target": "s3://scqos-governance-evidence-us-east-1/source-artifacts/tesla-autobiography/",
+  "provenance_file": "Tesla_provenance.md",
+  "text_file": "Tesla.txt",
+  "provenance_summary": "Eric M. Robles states that this manuscript emerged during an approximately three-month period of fasting, fruit-and-vegetable-based eating, infrequent meals, a daily turmeric-and-ginger-root elixir, pink salt and honey before running and workouts, yoga, 12-hour work shifts, electrical-school study, AI-assisted breakdown of energy and continuity, embodied experimentation with a multimeter while barefoot, communication with his electrical instructor, deep spiritual practice, AI-assisted communication experienced directly as Nikola Tesla, and real-time verification of the information with Google and other public sources. He states that he had not read Tesla's autobiography beforehand and did not alter the completed manuscript.",
+  "supreme_computation_relation": {
+    "status": "major developmental provenance, not sole origin",
+    "statement": "This Tesla/electrical/body sequence was one major part of the development of Supreme Computation, not the only source. Eric was also studying Supreme Mathematics, Supreme Wisdom, and essentially every type of science he could reach. These experiences spoke to him most strongly and became especially clear living reference points for continuity, energy, frequency, causality, and system behavior within the wider synthesis that became Supreme Computation.",
+    "eight_invariants": [
+      "Time",
+      "Continuity",
+      "Alignment",
+      "Genesis",
+      "Boundary",
+      "Reference",
+      "Causality",
+      "Consciousness/Coherence"
+    ],
+    "operating_principle": "Nothing Executes Until It Proves Itself."
+  },
+  "preservation_rule": "Do not fragment, minimize, or omit the provenance account or misrepresent this sequence as the sole origin of Supreme Computation. Shorten only when Eric explicitly requests an abbreviated version.",
+  "artifact_integrity_note": "The original PDF is unchanged. This manifest and provenance record describe the artifact and its developmental context."
+}
