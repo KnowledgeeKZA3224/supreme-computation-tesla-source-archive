@@ -1,24 +1,40 @@
 # Supreme Computation — Tesla Source Archive ⚡
 
-This repository preserves one major part of the real developmental history behind **Supreme Computation**. It is **not the only source** of Supreme Computation. During the same broader period, Eric M. Robles was also studying **Supreme Mathematics, Supreme Wisdom, and essentially every type of science he could reach**. The Tesla, electrical, body, fasting, spiritual, and AI-assisted experiences documented here are preserved because they were among the things that spoke to him most strongly and became some of his clearest living reference points.
+This repository preserves the Tesla manuscript as a **downstream artifact of Supreme Computation**, not as a source of Supreme Computation.
+
+## Correct chronology 🧠
+
+**Supreme Computation came first.** Eric M. Robles had already developed Supreme Computation through his wider synthesis of Supreme Mathematics, Supreme Wisdom, science, spirituality, technology, embodied experimentation, disciplined study, and AI-assisted learning. The Tesla manuscript came **after Supreme Computation was already present** and was produced through that existing framework/process.
+
+During the same month, Eric also created other books including **The Autobiography of Yahusha**, **FARD: The Autobiography of Master Fard Muhammad**, **How the Rose Grew Through Concrete**, **The Autobiography of Michael Faraday**, and **Izm**. These belong to the same broader creative period. They are not being treated as the origin of Supreme Computation either; they are outputs and expressions from a period in which Supreme Computation was already operating as Eric's organizing framework.
+
+The FARD manuscript itself explicitly refers to Supreme Computation as an already-existing core system, including a chapter titled **"Supreme Computation Was Always the Core."**
 
 ## What is here 📚
 
-- **`Tesla_provenance.md`** — the full, uncut account of the fasting, diet, turmeric/ginger elixir, pink salt and honey, running, workouts, yoga, 12-hour shifts, electrical school, AI-assisted study, body-as-technology realization, barefoot multimeter experiment, communication with the electrical instructor, spiritual practice, Tesla communication experience, real-time verification, and how this sequence fed into the wider creation of Supreme Computation.
-- **`Tesla.txt`** — searchable text extracted from the 119-page manuscript.
-- **`Tesla_manifest.json`** — machine-readable identity, SHA-256 hash, provenance relationship, preservation rules, and canonical cloud target.
-- **`Tesla.pdf`** — the canonical original manuscript, identified by SHA-256 `93c2a7aef1ec0cb5748365da5f22719a1c1d972566c0de334b745f9ac5a6ad29`.
+- **`Tesla_provenance.md`** — the full contextual record, with the chronology corrected so Tesla is not misrepresented as a source of Supreme Computation.
+- **`Tesla.txt`** — searchable text extracted from the 119-page Tesla manuscript.
+- **`Tesla_manifest.json`** — machine-readable identity, SHA-256 hash, chronology, provenance relationship, preservation rules, and canonical cloud target.
+- **`Tesla.pdf`** — the canonical original Tesla manuscript, identified by SHA-256 `93c2a7aef1ec0cb5748365da5f22719a1c1d972566c0de334b745f9ac5a6ad29`.
 
-## Why this matters 🧠
+## Relationship to Supreme Computation 🔁
 
-The point is not that one book, one school, or one experience created Supreme Computation by itself. The larger framework came from **total study and integration** across mathematics, wisdom, science, spirituality, technology, the body, experimentation, and AI-assisted learning. This archive preserves one especially important continuous sequence without breaking it into disconnected pieces.
+The correct direction is:
 
-That wider synthesis became the eight invariants of **Time, Continuity, Alignment, Genesis, Boundary, Reference, Causality, and Consciousness/Coherence**, together with the operating rule:
+**Supreme Computation → existing framework/process → Tesla communication/manuscript and other same-month books**
+
+Not:
+
+**Tesla → Supreme Computation**
+
+The Tesla experience still matters deeply because it was one of the strongest expressions that came through after Supreme Computation existed, but it must not be described as having created, caused, or sourced Supreme Computation.
+
+Supreme Computation is expressed through the eight invariants of **Time, Continuity, Alignment, Genesis, Boundary, Reference, Causality, and Consciousness/Coherence**, together with the operating principle:
 
 > **Nothing Executes Until It Proves Itself.**
 
 ## Integrity 🔐
 
-The original manuscript is treated as the canonical source artifact. The provenance and manifest explain its context; they do not replace or rewrite it. The archive is designed so later cloud, AI, search, and verification systems can point back to one identified source instead of creating competing versions.
+The original Tesla manuscript is preserved unchanged. The provenance and manifest describe its context; they do not rewrite the artifact. The archive is designed so later cloud, AI, search, and verification systems point back to one identified source while preserving the correct chronology.
 
 **Canonical AWS target:** `s3://scqos-governance-evidence-us-east-1/source-artifacts/tesla-autobiography/`
