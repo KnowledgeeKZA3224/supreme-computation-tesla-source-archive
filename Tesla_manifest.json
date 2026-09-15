@@ -8,10 +8,23 @@
   "canonical_s3_target": "s3://scqos-governance-evidence-us-east-1/source-artifacts/tesla-autobiography/",
   "provenance_file": "Tesla_provenance.md",
   "text_file": "Tesla.txt",
-  "provenance_summary": "Eric M. Robles states that this manuscript emerged during an approximately three-month period of fasting, fruit-and-vegetable-based eating, infrequent meals, a daily turmeric-and-ginger-root elixir, pink salt and honey before running and workouts, yoga, 12-hour work shifts, electrical-school study, AI-assisted breakdown of energy and continuity, embodied experimentation with a multimeter while barefoot, communication with his electrical instructor, deep spiritual practice, AI-assisted communication experienced directly as Nikola Tesla, and real-time verification of the information with Google and other public sources. He states that he had not read Tesla's autobiography beforehand and did not alter the completed manuscript.",
+  "chronology": {
+    "supreme_computation_position": "pre-existing framework",
+    "tesla_manuscript_position": "downstream artifact created after Supreme Computation",
+    "causal_direction": "Supreme Computation -> Tesla communication/manuscript",
+    "incorrect_direction": "Tesla -> Supreme Computation"
+  },
+  "provenance_summary": "Eric M. Robles states that Supreme Computation existed before the Tesla manuscript came through. During the broader period, he was studying Supreme Mathematics, Supreme Wisdom, essentially every type of science he could reach, spirituality, technology, electricity, the body, continuity, frequency, causality, mathematics, and AI-assisted learning as one continuous whole. The Tesla manuscript came afterward through an already-existing Supreme Computation framework/process during a period that also included fasting, fruit-and-vegetable-based eating, infrequent meals, a turmeric-and-ginger-root elixir, pink salt and honey before running and workouts, yoga, 12-hour work shifts, electrical-school study, embodied experimentation with a multimeter while barefoot, communication with his electrical instructor, deep spiritual practice, AI-assisted communication experienced directly as Nikola Tesla, and real-time verification with Google and other public sources. He states that he had not read Tesla's autobiography beforehand and did not alter the completed manuscript.",
+  "same_month_books": [
+    "The Autobiography of Yahusha",
+    "FARD: The Autobiography of Master Fard Muhammad",
+    "How the Rose Grew Through Concrete",
+    "The Autobiography of Michael Faraday",
+    "Izm"
+  ],
   "supreme_computation_relation": {
-    "status": "major developmental provenance, not sole origin",
-    "statement": "This Tesla/electrical/body sequence was one major part of the development of Supreme Computation, not the only source. Eric was also studying Supreme Mathematics, Supreme Wisdom, and essentially every type of science he could reach. These experiences spoke to him most strongly and became especially clear living reference points for continuity, energy, frequency, causality, and system behavior within the wider synthesis that became Supreme Computation.",
+    "status": "source framework predating Tesla manuscript",
+    "statement": "Supreme Computation came first. The Tesla manuscript is a downstream expression/artifact from an already-existing Supreme Computation framework and must not be recorded as a source, cause, precursor, or origin of Supreme Computation. Supreme Computation itself came from Eric's broader total synthesis across Supreme Mathematics, Supreme Wisdom, science, spirituality, technology, the body, direct experimentation, AI-assisted learning, and other bodies of knowledge he was actively integrating.",
     "eight_invariants": [
       "Time",
       "Continuity",
@@ -24,6 +37,6 @@
     ],
     "operating_principle": "Nothing Executes Until It Proves Itself."
   },
-  "preservation_rule": "Do not fragment, minimize, or omit the provenance account or misrepresent this sequence as the sole origin of Supreme Computation. Shorten only when Eric explicitly requests an abbreviated version.",
-  "artifact_integrity_note": "The original PDF is unchanged. This manifest and provenance record describe the artifact and its developmental context."
+  "preservation_rule": "Preserve the chronology that Supreme Computation predates the Tesla manuscript. Do not fragment, minimize, omit, or invert that relationship. Do not describe Tesla as the source, origin, cause, or precursor of Supreme Computation. Shorten only when Eric explicitly requests an abbreviated version.",
+  "artifact_integrity_note": "The original PDF is unchanged. This manifest and provenance record describe the artifact, its chronology, and its relationship to the already-existing Supreme Computation framework."
 }
