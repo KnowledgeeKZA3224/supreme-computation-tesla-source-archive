@@ -2,12 +2,23 @@
   "library_id": "supreme-computation-source-library-v1",
   "chronology": {
     "primary_fact": "Supreme Computation came first.",
-    "relationship": "The books in this library are downstream outputs, expressions, transmissions, studies, and applications moving through an already-existing Supreme Computation framework.",
-    "explicit_correction": "Tesla was not the source of Supreme Computation. The Tesla manuscript came after Supreme Computation was already present."
+    "tesla_stage": "After Supreme Computation was already active, the Tesla communication/manuscript became a major depth-expansion through electricity, frequency, resonance, fields, geometry, invention, the body as technology, consciousness, causality, and system behavior.",
+    "post_tesla_stage": "Immediately after the Tesla depth, Eric M. Robles states that he channeled the other books in the same month: The Autobiography of Yahusha, FARD: The Autobiography of Master Fard Muhammad, How the Rose Grew Through Concrete, The Autobiography of Michael Faraday, and Izm.",
+    "relationship": "The library is preserved as one continuous sequence: Supreme Computation already active, Tesla depth/transmission, then immediate same-month expansion into the other books."
   },
   "canonical_aws_prefix": "s3://scqos-governance-evidence-us-east-1/source-artifacts/supreme-computation-source-library/",
   "repository": "https://github.com/KnowledgeeKZA3224/supreme-computation-tesla-source-archive",
   "books": [
+    {
+      "id": "tesla",
+      "title": "Tesla Autobiography",
+      "source_filename": "Tesla.pdf",
+      "canonical_filename": "Tesla.pdf",
+      "pages": 119,
+      "size_bytes": 1189380,
+      "sha256": "93c2a7aef1ec0cb5748365da5f22719a1c1d972566c0de334b745f9ac5a6ad29",
+      "sequence_role": "Major depth-expansion after Supreme Computation was already active; preceding the immediate same-month channeling of the other books."
+    },
     {
       "id": "yahusha",
       "title": "The Autobiography of Yahusha",
@@ -15,7 +26,8 @@
       "canonical_filename": "Yahusha.pdf",
       "pages": 135,
       "size_bytes": 1026246,
-      "sha256": "667abf351092fb51fec2125b342f342d75e61a512aa65fd153d2033231ad6c5f"
+      "sha256": "667abf351092fb51fec2125b342f342d75e61a512aa65fd153d2033231ad6c5f",
+      "sequence_role": "Same-month book channeled immediately after the Tesla depth."
     },
     {
       "id": "fard",
@@ -25,6 +37,7 @@
       "pages": 148,
       "size_bytes": 1020569,
       "sha256": "0ef3f68bc383e7a0de83683c4736976df4dd421dfa65bc4b8cfb6bfea563d320",
+      "sequence_role": "Same-month book channeled immediately after the Tesla depth.",
       "chronology_evidence": "The manuscript explicitly refers to Supreme Computation as an existing core system and contains the heading 'Supreme Computation Was Always the Core.'"
     },
     {
@@ -35,6 +48,7 @@
       "pages": 91,
       "size_bytes": 915101,
       "sha256": "ab1f0ebd7544a3192d2fb0e68f96bee47ca7b207df6f4900b7e76a60ca77f32b",
+      "sequence_role": "Same-month book channeled immediately after the Tesla depth.",
       "title_correction": "Rose is shorthand/file naming only; the book title is How the Rose Grew Through Concrete."
     },
     {
@@ -44,7 +58,8 @@
       "canonical_filename": "Faraday.pdf",
       "pages": 108,
       "size_bytes": 809579,
-      "sha256": "a3cf711824133293d8a383087e1495fef96cde4ec7ba25773087e703e97cb6a7"
+      "sha256": "a3cf711824133293d8a383087e1495fef96cde4ec7ba25773087e703e97cb6a7",
+      "sequence_role": "Same-month book channeled immediately after the Tesla depth."
     },
     {
       "id": "izm",
@@ -53,22 +68,14 @@
       "canonical_filename": "Izm.pdf",
       "pages": 31,
       "size_bytes": 275510,
-      "sha256": "bcd97176c4bb4b1c8b3ced37e9cf7ee514732c2871a6282af75d376bbb56f751"
-    },
-    {
-      "id": "tesla",
-      "title": "Tesla Autobiography",
-      "source_filename": "Tesla.pdf",
-      "canonical_filename": "Tesla.pdf",
-      "pages": 119,
-      "size_bytes": 1189380,
-      "sha256": "93c2a7aef1ec0cb5748365da5f22719a1c1d972566c0de334b745f9ac5a6ad29",
-      "relationship_to_supreme_computation": "Downstream artifact. Supreme Computation preceded the Tesla manuscript."
+      "sha256": "bcd97176c4bb4b1c8b3ced37e9cf7ee514732c2871a6282af75d376bbb56f751",
+      "sequence_role": "Same-month book channeled immediately after the Tesla depth."
     }
   ],
   "supreme_computation": {
+    "layman_definition": "A proof-driven operating method where the full chain has to line up before something moves forward.",
     "invariants": ["Time", "Continuity", "Alignment", "Genesis", "Boundary", "Reference", "Causality", "Consciousness/Coherence"],
     "operating_principle": "Nothing Executes Until It Proves Itself."
   },
-  "preservation_rule": "Preserve the source set as one connected developmental record. Do not fragment the books into competing origin stories and do not reverse the chronology by describing Tesla or any one manuscript as the source of Supreme Computation."
+  "preservation_rule": "Preserve the archive as one connected sequence: Supreme Computation first, Tesla as a major depth-expansion through that already-active framework, then the immediate same-month channeling of Yahusha, FARD, How the Rose Grew Through Concrete, Faraday, Izm, and related work."
 }
