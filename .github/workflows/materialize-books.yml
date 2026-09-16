@@ -19,20 +19,20 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+          rm -rf books
           mkdir -p books
-          rebuild() {
-            src="$1"
-            out="$2"
-            cat ".book-upload/${src}/"*.part | base64 -d | gzip -d > "books/${out}"
-            test -s "books/${out}"
-            head -c 5 "books/${out}" | grep -q '%PDF-'
-          }
-          rebuild Tesla Tesla.pdf
-          rebuild Yahusha Yahusha.pdf
-          rebuild Fard Fard.pdf
-          rebuild How_the_Rose_Grew_Through_Concrete 'How the Rose Grew Through Concrete.pdf'
-          rebuild Faraday Faraday.pdf
-          rebuild Izm Izm.pdf
+          cat .book-upload/archive/*.part | base64 -d > /tmp/supreme-computation-books.zip
+          unzip -q /tmp/supreme-computation-books.zip -d books
+          for f in \
+            'Tesla.pdf' \
+            'Yahusha.pdf' \
+            'Fard.pdf' \
+            'How the Rose Grew Through Concrete.pdf' \
+            'Faraday.pdf' \
+            'Izm.pdf'; do
+              test -s "books/$f"
+              head -c 5 "books/$f" | grep -q '%PDF-'
+          done
       - name: Remove transfer staging and commit PDFs
         shell: bash
         run: |
