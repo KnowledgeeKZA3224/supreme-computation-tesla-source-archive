@@ -1,9 +1,9 @@
-name: Materialize Book PDFs
+name: Materialize Source PDFs
 
 on:
   push:
     paths:
-      - '.book-upload/READY'
+      - '.book-upload/READY-ACCESSIBLE'
 
 permissions:
   contents: write
@@ -21,18 +21,30 @@ jobs:
           set -euo pipefail
           rm -rf books
           mkdir -p books
-          cat .book-upload/archive/*.part | base64 -d > /tmp/supreme-computation-books.zip
-          unzip -q /tmp/supreme-computation-books.zip -d books
+          cat .book-upload/access-archive/*.part | base64 -d > /tmp/source-books.zip
+          unzip -q /tmp/source-books.zip -d books
           for f in \
             'Tesla.pdf' \
-            'Yahusha.pdf' \
-            'Fard.pdf' \
-            'How the Rose Grew Through Concrete.pdf' \
             'Faraday.pdf' \
-            'Izm.pdf'; do
+            'Fard.pdf' \
+            'Yahusha.pdf'; do
               test -s "books/$f"
               head -c 5 "books/$f" | grep -q '%PDF-'
           done
+          cat > books/SOURCE_INTEGRITY.md <<'EOF'
+          # Source integrity
+
+          The PDFs in this `books/` directory are accessible text editions materialized from the user-provided source PDFs so the complete source content is directly browsable in GitHub. They are derived copies, not byte-identical replacements for the canonical uploads.
+
+          Canonical uploaded-source SHA-256 fingerprints:
+
+          - Tesla: `93c2a7aef1ec0cb5748365da5f22719a1c1d972566c0de334b745f9ac5a6ad29`
+          - Faraday: `a3cf711824133293d8a383087e1495fef96cde4ec7ba25773087e703e97cb6a7`
+          - Fard: `0ef3f68bc383e7a0de83683c4736976df4dd421dfa65bc4b8cfb6bfea563d320`
+          - Yahusha: `667abf351092fb51fec2125b342f342d75e61a512aa65fd153d2033231ad6c5f`
+
+          Supreme Computation preserves the canonical fingerprints separately so provenance is not silently rewritten.
+          EOF
       - name: Remove transfer staging and commit PDFs
         shell: bash
         run: |
